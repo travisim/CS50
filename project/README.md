@@ -23,7 +23,6 @@ the website allows users to create accounts to store their risk assessment infom
 
 ## list of questions in website
 
-iv class="preference">
            1. I am feeling well today 
          
            2. I had 7 hours of uninterrupted rest the night before 
