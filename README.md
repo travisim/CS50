@@ -3,18 +3,18 @@
 
 - [Problem Set 0: Scratch](/pset0) 
   * scratch
-- [Problem Set 1: C](/C/pset1) 
+- [Problem Set 1: C](/pset1) 
   * hello
   * mario
   * cash
 
-- [Problem Set 2: Arrays](/C/pset2) 
+- [Problem Set 2: Arrays](/pset2) 
   * caesar
   * substitution
 - [Problem Set3: Algorithms]
   * plurality
   * runoff
-- [Problem Set 4: Memory](/C/pset4) 
+- [Problem Set 4: Memory](/pset4) 
   * filter
     
   * [recover]
